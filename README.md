@@ -15,4 +15,4 @@ Script works with:
 
 <img width="404" alt="mainWindow" src="https://github.com/mbiedrzycki/triple-micro-SD-card-exFAT-to-ext4-converter/assets/106558286/43621a38-3441-443f-80be-a5cccfd7f5a2">
 <img width="613" alt="instruction" src="https://github.com/mbiedrzycki/triple-micro-SD-card-exFAT-to-ext4-converter/assets/106558286/3f23a4a6-97bd-4d87-a654-17559e1877ea">
-![device](https://github.com/mbiedrzycki/triple-micro-SD-card-exFAT-to-ext4-converter/assets/106558286/3a488f38-9192-4867-8e22-e342315b91d5)
+
