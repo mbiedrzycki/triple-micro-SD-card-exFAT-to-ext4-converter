@@ -3,8 +3,6 @@
 import tkinter
 from tkinter import messagebox
 from tkinter import ttk
-import time
-import math
 import os
 import subprocess
 
